@@ -4,10 +4,10 @@ This repository contains the self-extracting installer for Clara Timemachine. It
 
 ## For Customers
 
-Save and run the installer:
+One-line install:
 
 ```bash
-bash install.sh
+curl -fsSL https://raw.githubusercontent.com/faros-ai/clara-install/main/install.sh -o /tmp/clara-install.sh && bash /tmp/clara-install.sh
 ```
 
 The installer will:
