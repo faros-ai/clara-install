@@ -7,7 +7,7 @@ This repository contains the self-extracting installer for Clara Timemachine. It
 One-line install:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/faros-ai/clara-install/main/install.sh -o /tmp/clara-install.sh && bash /tmp/clara-install.sh
+curl -fsSL https://raw.githubusercontent.com/faros-ai/clara-install/main/install.sh -o install.sh && bash install.sh
 ```
 
 The installer will:
